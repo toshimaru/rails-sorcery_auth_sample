@@ -1,7 +1,9 @@
-== README
+== Rails sorcery authentication sample
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+=== Reference
+https://github.com/NoamB/sorcery/wiki/Simple-Password-Authentication
+
+---
 
 Things you may want to cover:
 
